@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/12barsongset/static/js/3.bfcf3618.chunk.js"
   },
   {
-    "revision": "a620f452f86a9d8cc872817d5b33514d",
+    "revision": "81ce023f26e16d0d8d01a13a72407639",
     "url": "/12barsongset/index.html"
   }
 ];
