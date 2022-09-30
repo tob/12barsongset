@@ -14,6 +14,8 @@ import { Song } from "./components/Song";
 // SERVICES THAT CALL OUR API ENDPOINTS
 import { getAllSongs } from "./services/profileService";
 
+const routerBaseName = process.env.PUBLIC_URL || '/' 
+
 const SongList = () => {
   const [songs, setSongs] = useState(null);
   const [dragId, setDragId] = useState();
@@ -85,7 +87,7 @@ const SongList = () => {
 
   return (
     <>
-      <Router basename={"/tracklist-viewer"}>
+      <Router basename={routerBaseName}>
         <Routes>
           <Route
             path="/about"
