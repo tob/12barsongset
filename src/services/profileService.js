@@ -4,9 +4,12 @@ import axios from "axios";
 import { songsData } from "../songsData";
 
 const getAllSongs = async () => {
-  // const response = await axios.get(`/api/songs`);
+	// const response = await axios.get(`/api/songs`);
 
-  return songsData;
+  // getting lyrics saved to local storage
+	let savedLyrics = JSON.parse(localStorage.getItem("lyrics"));
+
+	return savedLyrics ? savedLyrics : songsData;
 };
 
 // All of the endpoints in this file can be exported below
