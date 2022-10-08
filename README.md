@@ -1,7 +1,17 @@
-# 12barsongset
+Prerequisites
+Before installation, please make sure you have already installed the following tools:
 
-This is a React PWA created to show a reordable list of songs.
+git
+Nodejs
 
-Every song has its own route and it is possible to increase and decrease lyrics size. The text automatically diplays on columns based on the space available in the viewport.
+🛠️ Installation Steps
+1)Fork the project
+2)Clone the forked project
+3)Navigate to the cloned project directory
+4)Install the dependencies with yarn install
+-> just type yarn ( To install the dependencies )
+5)  To start the server type yarn start 
+->( this command will start your server )
 
-This app has been created to be used during live sets on a tablet fixed to the mic stand.
+along with this I will add some screenshots of your project, that is enough ? or do you want anything else
+if no, then I will raise a PR by the end of the day
