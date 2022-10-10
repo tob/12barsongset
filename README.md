@@ -22,6 +22,8 @@ Before installation, please make sure you have already installed the following t
 ->It is also possible to increase and decrease the size of the lyrics to have them fitting the screen.
 
 
-screen-shot 
-👇
+screen-shot:
+
+detail screen-shot is here  (down side )  👇
+
 ![](img/demo.png)
