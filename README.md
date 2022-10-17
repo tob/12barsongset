@@ -6,7 +6,6 @@ Before installation, please make sure you have already installed the following t
 
 🛠️ Installation Steps
 1) Fork the project 
-![](img/fork.png)
 2) Clone the forked project
 ![](img/clone.png)
 3) Navigate to the cloned project directory
