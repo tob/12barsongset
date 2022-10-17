@@ -676,5 +676,72 @@ Reach out and touch faith`,
     One day I get outta here \\n
     It's gonna be your very last day \\n
     `
-  }
+  },
+  {
+    _id: "15",
+    title: "Bennie and the Jets",
+    version: "Elton John",
+    order: 15,
+    fontSize: 1,
+    lyrics: `Hey kids, shake it loose together
+    The spotlight's hitting something \\n
+    That's been known to change the weather \\n
+    We'll kill the fatted calf tonight so stick around \\n
+    You're gonna hear electric music, solid walls of sound \\n
+     \\n
+    [Pre-Chorus] \\n
+    Say, Candy and Ronnie, have you seen them yet? \\n
+    Ooh, but they're so spaced out \\n
+    B-B-B-Bennie and the Jets \\n
+    Oh, but they're weird and they're wonderful \\n
+    Oh, Bennie, she's really keen \\n
+    [Chorus] \\n
+    She's got electric boots, a mohair suit \\n
+    You know I read it in a magazine, oh \\n
+    B-B-B-Bennie and the Jets \\n
+     \\n
+    [Verse 2] \\n
+    Hey kids, plug into the faithless \\n
+    Maybe they're blinded, but Bennie makes them ageless \\n
+    We shall survive, let us take ourselves along \\n
+    Where we fight our parents out in the streets \\n
+    To find who's right and who's wrong \\n
+     \\n
+    [Pre-Chorus] \\n
+    Say, Candy and Ronnie, have you seen them yet? \\n
+    Ooh, but they're so spaced out \\n
+    B-B-B-Bennie and the Jets \\n
+    Oh, but they're weird and they're wonderful \\n
+    Oh, Bennie, she's really keen \\n
+     \\n
+    [Chorus] \\n
+    She's got electric boots, a mohair suit \\n
+    You know I read it in a magazine, oh \\n
+    B-B-B-Bennie and the Jets \\n
+     \\n
+    [Pre-Chorus] \\n
+    Oh, Candy and Ronnie, have you seen them yet? \\n
+    Oh, but they're so spaced out \\n
+    B-B-B-B-B-Bennie and the Jets \\n
+    Oh, but they're weird and they're wonderful \\n
+    Oh, Bennie, she's really keen \\n
+    You might also like \\n
+    Goodbye Yellow Brick Road \\n
+    Elton John \\n
+    Candle in the Wind \\n
+    Elton John \\n
+    Your Song \\n
+    Elton John \\n
+    [Chorus] \\n
+    She's got electric boots, a mohair suit \\n
+    You know I read it in a magazine \\n
+    B-B-B-Bennie and the Jets \\n
+     \\n
+    [Outro] \\n
+    Bennie, Bennie and the Jets \\n
+    Bennie, Bennie, Bennie, Bennie and the Jets \\n
+    Bennie, Bennie, Bennie, Bennie, Bennie and the Jets \\n
+    Bennie, Bennie, Bennie, Bennie and the Jets \\n
+    Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie and the Jets, the Jets, the Jets \\n
+    Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie, Bennie and the Jets`}
 ];
