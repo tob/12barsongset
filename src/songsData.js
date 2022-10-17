@@ -770,5 +770,95 @@ Reach out and touch faith`,
       I'm gonna get some concrete mix \\n
       And fill your back door up with bricks \\n
       And you better be there waiting \\n
-      When I get my business fixed`}
+      When I get my business fixed`},
+      {
+        _id: "17",
+        title: "Trampled Under Foot",
+        version: "Led Zeppelin",
+        order: 17,
+        fontSize: 1,
+        lyrics: `Greasy slicked-down \\n
+        Groovy leather trim \\n
+        I like the way ya hold the road \\n
+        Mama, it ain't no sin \\n
+        Talking 'bout love \\n
+        I'm talking 'bout love \\n
+        I'm talking 'bout \\n
+        Ooh, trouble-free transmission \\n
+        Helps your oil's flow \\n
+        Mama, let me pump your gas \\n
+        Mama, let me do it all \\n
+        Talking 'bout love, ah \\n
+        Talking 'bout love, oh \\n
+        Talking 'bout \\n
+        Check that heavy metal \\n
+        Underneath your hood \\n
+        Baby, I can work all night \\n
+        Believe I got the perfect tools \\n
+        Talking 'bout love \\n
+        Talking 'bout love \\n
+        Talking 'bout \\n
+        Automobile with comfort \\n
+        Really built with style \\n
+        Specialist tradition \\n
+        Mama, let me feast my eyes \\n
+        Talking 'bout love \\n
+        Talking 'bout love \\n
+        Talking 'bout \\n
+        Factory air-conditioned \\n
+        Heat begins to rise \\n
+        Guaranteed to run for hours \\n
+        Mama, you're the perfect size \\n
+        Talking 'bout love \\n
+        Talking 'bout love \\n
+        Talking 'bout \\n
+        Grooving on the freeway \\n
+        Gauges all are red \\n
+        Gun down on my gasoline \\n
+        Believe I'm gonna crack your head \\n
+        Talking 'bout love \\n
+        Talking 'bout love \\n
+        I'm talking 'bout \\n
+        I can't stop talking about \\n
+        I can't stop talking about \\n
+        Ooh yeah, yes-ah \\n
+        Drive on! \\n
+        Oh yeah, yeah, yeah, yeah, yes, I'm coming through \\n
+        Come to me for service \\n
+        Every hundred miles \\n
+        Baby, let me check your points \\n
+        Fix your overdrive \\n
+        Talking 'bout love \\n
+        I'm talking 'bout love \\n
+        I'm talking 'bout \\n
+        Oh yes, fully automatic \\n
+        Comes in any size \\n
+        Makes me wonder what I did \\n
+        Before we synchronized \\n
+        Talking 'bout love \\n
+        I'm talking 'bout love \\n
+        I'm talking 'bout \\n
+        Oh-oh, feather-light suspension \\n
+        Corners couldn't hold \\n
+        I'm so glad I took a look \\n
+        Inside your showroom doors \\n
+        Talking 'bout love \\n
+        Talking 'bout love \\n
+        Talking 'bout \\n
+        I can't, I can't \\n
+        Oh, I can't stop talking about love \\n
+        I can't stop talking about love \\n
+        Oh, let me go on down, go on down \\n
+        Go on down, go on down, go on down, yes \\n
+        I can't stop talking 'bout \\n
+        I can't stop talking 'bout love, hey \\n
+        I can't stop talking 'bout love or my baby \\n
+        I can't stop talking 'bout love, my baby \\n
+        My baby, my baby, yeah! \\n
+        Uh \\n
+        Push \\n
+        Push \\n
+        Push it \\n
+        Push \\n
+        Push`}
 ];
